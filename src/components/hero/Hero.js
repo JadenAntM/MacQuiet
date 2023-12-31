@@ -34,7 +34,7 @@ const Hero = ({ albums }) => {
                         onClick={() => reviews(album.imdbId)}
                         className="align-self-start"
                       >
-                        Reviews
+                        Leave a Review
                       </Button>
                     </div>
                   </div>
