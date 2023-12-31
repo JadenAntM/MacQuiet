@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import api from "./api/axiosconfig";
 import { useState, useEffect } from "react";
