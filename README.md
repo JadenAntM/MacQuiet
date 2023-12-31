@@ -1,10 +1,10 @@
-#MacQuiet
+# MacQuiet
 
-##Overview
+## Overview
 
 Welcome to the McMaster Study Spot Review Web Application! This platform is dedicated to students at McMaster University, offering a comprehensive and user-friendly interface to review and explore various study spots across the campus. By using modern technologies such as React.js, Java Spring Boot, and MongoDB, this app provides an efficient and engaging way for students to share their experiences and discover the best study locations on campus.
 
-##Features
+## Features
 
 - **Study Spot Listings:** Explore a wide range of study spots available at McMaster University, each with detailed descriptions and features.
 - **User Reviews:** Students can leave their own reviews, ratings, and feedback on each study spot, sharing their personal experiences and tips.
