@@ -17,3 +17,6 @@ Welcome to the McMaster Study Spot Review Web Application! This platform is dedi
 - **Frontend:** React.js and Bootstrap for a responsive and user-friendly interface.
 - **Backend:** Java Spring Boot, providing a robust framework for backend development.
 - **Database:** MongoDB, used for storing and managing study spot information and user reviews.
+
+## DEMO
+ https://youtu.be/BEPQWjv3tDE
