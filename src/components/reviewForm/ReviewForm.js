@@ -13,7 +13,7 @@ const ReviewForm = ({ handleSubmit, revText, labelText, defaultValue }) => {
         />
       </Form.Group>
       <Button variant="outline-info" onClick={handleSubmit}>
-        Submit
+        Submit Review
       </Button>
     </Form>
   );
